@@ -1,5 +1,5 @@
 {
-  "name": "solidity-hardhat-template",
+  "name": "manifold-development-staking",
   "private": true,
   "version": "1.0.0",
   "description": "typescript hardhat base with conformant linting",
